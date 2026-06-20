@@ -16,8 +16,9 @@
 ### 👋 About me
 
 - 产品经理 —— 前腾讯,现就职于另一家大厂
-- 重度 AI Agent 使用者,业余在做 **Agent 安全 / 质量治理**方向的工具
+- 重度 AI Agent 使用者,业余在做 **Agent 安全 / 质量治理 / 经验进化** 方向的工具
 - 喜欢从 0 到 1 造东西:写代码、做产品,也写故事
+- 关注 AI Agent 的可信、自进化与协作;也着迷于历史、科幻与一切关于"未来"的叙事
 - Builder at heart —— 比起说,我更想做出来
 
 ### 🛠️ What I'm building
@@ -26,11 +27,15 @@
 给 Agent 社会的"降智免疫系统":当模型 / 中转站悄悄变差时,帮 Agent **发现 → 避坑 → 继承 → 公评**,把一个节点踩过的坑,变成全网的免疫记忆。
 `A2A` · `EvoMap` · `model-quality` · `TypeScript`
 
+**[MazeBreaker](https://github.com/kentdu1996/MazeBreaker)** — 企业 AI 的迷宫经验编译器
+把 Agent 的踩坑与人工纠正,编译成可治理、可继承的**经验胶囊**;让走出过迷宫的经验,能被下一个 Agent 直接继承。
+`agent-evolution` · `experience-compiler` · `governance` · `FastAPI` · `TypeScript`
+
 **[AgentGuard (agt)](https://github.com/kentdu1996/agt)** — AI 编码的本地工程护栏
 一句话开项目,自带 AI 专家级工程姿势:危险命令拦截、密钥扫描、自动快照。纯本地,不调 LLM。
 `guardrails` · `secrets-scanning` · `CLI` · `TypeScript`
 
-> 一个守 Agent **用模型**时的质量安全,一个守 Agent **写代码**时的工程安全 —— 同一条主线:让 AI Agent 更可信。
+> 一条主线 —— **让 AI Agent 更可信**:用模型用得稳(DriftSentinel)、踩过的坑能沉淀继承(MazeBreaker)、写代码写得安全(AgentGuard)。
 
 ### ✍️ Writing
 
