@@ -41,6 +41,7 @@
 - [他买了一张不能下船的船票,然后跳进了太平洋](https://mp.weixin.qq.com/s/-D-PuL9oUWoQpKTINL2Q1A)
 
 小红书「未来志」系列 —— 关于科技与未来的短叙事。
+- [开一个新系列：失落的发明] https://www.xiaohongshu.com/discovery/item/6a2d754800000000360014e8?source=webshare&xhsshare=pc_web&xsec_token=YBqlfpJGaJ00qcF4wg68uTHnkL5Wr4HGBIhgKgtgMqExE=&xsec_source=pc_share
 
 ### 📊 GitHub Stats
 
